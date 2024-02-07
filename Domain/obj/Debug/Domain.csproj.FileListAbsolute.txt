@@ -1,0 +1,24 @@
+C:\Users\Marko\Desktop\Kladionica\Domain\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Kladionica\Domain\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Kladionica\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Kladionica\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kladionica\Domain\obj\Debug\Domain.dll
+C:\Users\Marko\Desktop\Kladionica\Domain\obj\Debug\Domain.pdb
+E:\seminarski gotov\Kladionica\Domain\bin\Debug\Domain.dll
+E:\seminarski gotov\Kladionica\Domain\bin\Debug\Domain.pdb
+E:\seminarski gotov\Kladionica\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\seminarski gotov\Kladionica\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\seminarski gotov\Kladionica\Domain\obj\Debug\Domain.dll
+E:\seminarski gotov\Kladionica\Domain\obj\Debug\Domain.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Domain\bin\Debug\Domain.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Domain\bin\Debug\Domain.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Domain\obj\Debug\Domain.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Domain\obj\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Domain\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Domain\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Domain\obj\Debug\Domain.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Domain\obj\Debug\Domain.pdb

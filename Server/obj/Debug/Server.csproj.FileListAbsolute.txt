@@ -1,0 +1,95 @@
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Server.exe.config
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Server.exe
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Server.pdb
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.exe
+C:\Users\Marko\Desktop\Kladionica\Server\obj\Debug\Server.pdb
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\ControllerK.dll
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Storage.dll
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\SystemOperations.dll
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\ControllerK.pdb
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\Storage.pdb
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\SystemOperations.pdb
+C:\Users\Marko\Desktop\Kladionica\Server\bin\Debug\DatabaseBroker.pdb
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Server.exe.config
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Server.exe
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Server.pdb
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Common.dll
+E:\seminarski gotov\Kladionica\Server\bin\Debug\ControllerK.dll
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Domain.dll
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Storage.dll
+E:\seminarski gotov\Kladionica\Server\bin\Debug\SystemOperations.dll
+E:\seminarski gotov\Kladionica\Server\bin\Debug\DatabaseBroker.dll
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Common.pdb
+E:\seminarski gotov\Kladionica\Server\bin\Debug\ControllerK.pdb
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Domain.pdb
+E:\seminarski gotov\Kladionica\Server\bin\Debug\Storage.pdb
+E:\seminarski gotov\Kladionica\Server\bin\Debug\SystemOperations.pdb
+E:\seminarski gotov\Kladionica\Server\bin\Debug\DatabaseBroker.pdb
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.FrmServer.resources
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.Properties.Resources.resources
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.csproj.CopyComplete
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.exe
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.pdb
+E:\seminarski gotov\Kladionica\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Server.exe.config
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Server.exe
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Server.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Common.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\ControllerK.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Domain.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Storage.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\SystemOperations.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\DatabaseBroker.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Common.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\ControllerK.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Domain.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\Storage.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\SystemOperations.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\bin\Debug\DatabaseBroker.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.FrmServer.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.exe
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Server\obj\Debug\Server.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Server.exe.config
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Server.exe
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Server.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\ControllerK.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Storage.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\SystemOperations.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\DatabaseBroker.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\ControllerK.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\Storage.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\SystemOperations.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\bin\Debug\DatabaseBroker.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.exe
+C:\Users\Marko\Desktop\Za git\Kladionica\Server\obj\Debug\Server.pdb

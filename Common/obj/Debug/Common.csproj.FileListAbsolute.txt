@@ -1,0 +1,24 @@
+C:\Users\Marko\Desktop\Kladionica\Common\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\Kladionica\Common\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\Kladionica\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Kladionica\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kladionica\Common\obj\Debug\Common.dll
+C:\Users\Marko\Desktop\Kladionica\Common\obj\Debug\Common.pdb
+E:\seminarski gotov\Kladionica\Common\bin\Debug\Common.dll
+E:\seminarski gotov\Kladionica\Common\bin\Debug\Common.pdb
+E:\seminarski gotov\Kladionica\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\seminarski gotov\Kladionica\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\seminarski gotov\Kladionica\Common\obj\Debug\Common.dll
+E:\seminarski gotov\Kladionica\Common\obj\Debug\Common.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Common\bin\Debug\Common.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Common\bin\Debug\Common.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Common\obj\Debug\Common.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Common\obj\Debug\Common.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Common\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Common\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Common\obj\Debug\Common.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Common\obj\Debug\Common.pdb

@@ -1,0 +1,44 @@
+C:\Users\Marko\Desktop\Kladionica\Storage\bin\Debug\Storage.dll
+C:\Users\Marko\Desktop\Kladionica\Storage\bin\Debug\Storage.pdb
+C:\Users\Marko\Desktop\Kladionica\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\Marko\Desktop\Kladionica\Storage\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Kladionica\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\Marko\Desktop\Kladionica\Storage\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Kladionica\Storage\obj\Debug\Storage.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Kladionica\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kladionica\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Marko\Desktop\Kladionica\Storage\obj\Debug\Storage.dll
+C:\Users\Marko\Desktop\Kladionica\Storage\obj\Debug\Storage.pdb
+E:\seminarski gotov\Kladionica\Storage\bin\Debug\Storage.dll
+E:\seminarski gotov\Kladionica\Storage\bin\Debug\Storage.pdb
+E:\seminarski gotov\Kladionica\Storage\bin\Debug\DatabaseBroker.dll
+E:\seminarski gotov\Kladionica\Storage\bin\Debug\Domain.dll
+E:\seminarski gotov\Kladionica\Storage\bin\Debug\DatabaseBroker.pdb
+E:\seminarski gotov\Kladionica\Storage\bin\Debug\Domain.pdb
+E:\seminarski gotov\Kladionica\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+E:\seminarski gotov\Kladionica\Storage\obj\Debug\Storage.csproj.CopyComplete
+E:\seminarski gotov\Kladionica\Storage\obj\Debug\Storage.dll
+E:\seminarski gotov\Kladionica\Storage\obj\Debug\Storage.pdb
+E:\seminarski gotov\Kladionica\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\bin\Debug\Storage.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\bin\Debug\Storage.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\bin\Debug\DatabaseBroker.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\bin\Debug\Domain.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\bin\Debug\DatabaseBroker.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\bin\Debug\Domain.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\obj\Debug\Storage.csproj.AssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\obj\Debug\Storage.csproj.CopyComplete
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\obj\Debug\Storage.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Storage\obj\Debug\Storage.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\bin\Debug\Storage.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\bin\Debug\Storage.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\obj\Debug\Storage.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\obj\Debug\Storage.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Storage\obj\Debug\Storage.pdb

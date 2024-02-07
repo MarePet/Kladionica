@@ -1,0 +1,110 @@
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FrmAdministrator.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FrmKorisnik.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kladionica\Client\bin\Debug\Client.exe.config
+C:\Users\Marko\Desktop\Kladionica\Client\bin\Debug\Client.exe
+C:\Users\Marko\Desktop\Kladionica\Client\bin\Debug\Client.pdb
+C:\Users\Marko\Desktop\Kladionica\Client\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\Kladionica\Client\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Kladionica\Client\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\Kladionica\Client\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.exe
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.pdb
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmRegistracija.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmIzmenaNaloga.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmKorisnici.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmDodajUtakmicu.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmInfoKorisnik.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmKreirajTiket.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmSviTiketi.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmInformacijeTiket.resources
+C:\Users\Marko\Desktop\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmIzmeniUtakmice.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmDodajUtakmicu.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmInfoKorisnik.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmIzmeniUtakmice.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmKorisnici.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmDodajKomponente.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmInformacijeTiket.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmIzmenaNaloga.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmKreirajTiket.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmRegistracija.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmSviTiketi.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FrmAdministrator.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FrmKorisnik.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.FrmLogin.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.Properties.Resources.resources
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.exe
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.pdb
+E:\seminarski gotov\Kladionica\Client\bin\Debug\Client.exe.config
+E:\seminarski gotov\Kladionica\Client\bin\Debug\Client.exe
+E:\seminarski gotov\Kladionica\Client\bin\Debug\Client.pdb
+E:\seminarski gotov\Kladionica\Client\bin\Debug\Common.dll
+E:\seminarski gotov\Kladionica\Client\bin\Debug\Domain.dll
+E:\seminarski gotov\Kladionica\Client\bin\Debug\Common.pdb
+E:\seminarski gotov\Kladionica\Client\bin\Debug\Domain.pdb
+E:\seminarski gotov\Kladionica\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\bin\Debug\Client.exe.config
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\bin\Debug\Client.exe
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\bin\Debug\Client.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\bin\Debug\Common.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\bin\Debug\Domain.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\bin\Debug\Common.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\bin\Debug\Domain.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmDodajUtakmicu.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmInfoKorisnik.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmIzmeniUtakmice.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmKorisnici.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmDodajKomponente.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmInformacijeTiket.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmIzmenaNaloga.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmKreirajTiket.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmRegistracija.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmSviTiketi.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FrmAdministrator.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FrmKorisnik.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.FrmLogin.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.exe
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\Client\obj\Debug\Client.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\bin\Debug\Client.exe.config
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\bin\Debug\Client.exe
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\bin\Debug\Client.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\bin\Debug\Common.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\bin\Debug\Common.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmDodajUtakmicu.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmInfoKorisnik.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmIzmeniUtakmice.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeAdministrator.FrmKorisnici.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmDodajKomponente.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmInformacijeTiket.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmIzmenaNaloga.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmKreirajTiket.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmRegistracija.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FormeKorisnik.FrmSviTiketi.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FrmAdministrator.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FrmKorisnik.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.exe
+C:\Users\Marko\Desktop\Za git\Kladionica\Client\obj\Debug\Client.pdb

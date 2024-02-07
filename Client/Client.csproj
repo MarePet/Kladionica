@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E70C9ED9-DA0F-42D9-AF3E-5AFA66A4B07D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Client</RootNamespace>
+    <AssemblyName>Client</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exceptioni\ServerException.cs" />
+    <Compile Include="Exceptioni\SistemskaOperacijaException.cs" />
+    <Compile Include="FormeAdministrator\FrmDodajUtakmicu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeAdministrator\FrmDodajUtakmicu.Designer.cs">
+      <DependentUpon>FrmDodajUtakmicu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeAdministrator\FrmInfoKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeAdministrator\FrmInfoKorisnik.Designer.cs">
+      <DependentUpon>FrmInfoKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeAdministrator\FrmIzmeniUtakmice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeAdministrator\FrmIzmeniUtakmice.Designer.cs">
+      <DependentUpon>FrmIzmeniUtakmice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeAdministrator\FrmKorisnici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeAdministrator\FrmKorisnici.Designer.cs">
+      <DependentUpon>FrmKorisnici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmDodajKomponente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmDodajKomponente.Designer.cs">
+      <DependentUpon>FrmDodajKomponente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmInformacijeTiket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmInformacijeTiket.Designer.cs">
+      <DependentUpon>FrmInformacijeTiket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmIzmenaNaloga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmIzmenaNaloga.Designer.cs">
+      <DependentUpon>FrmIzmenaNaloga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmKreirajTiket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmKreirajTiket.Designer.cs">
+      <DependentUpon>FrmKreirajTiket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmRegistracija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmRegistracija.Designer.cs">
+      <DependentUpon>FrmRegistracija.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmSviTiketi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormeKorisnik\FrmSviTiketi.Designer.cs">
+      <DependentUpon>FrmSviTiketi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdministrator.Designer.cs">
+      <DependentUpon>FrmAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKorisnik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKorisnik.Designer.cs">
+      <DependentUpon>FrmKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helperi\UserControlsHelp.cs" />
+    <Compile Include="Komunikacija\Komunikacija.cs" />
+    <Compile Include="Komunikacija\KomunikacijaKlijent.cs" />
+    <Compile Include="KontroleriS\LoginController.cs" />
+    <Compile Include="KontroleriS\MainController.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormeAdministrator\FrmDodajUtakmicu.resx">
+      <DependentUpon>FrmDodajUtakmicu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeAdministrator\FrmInfoKorisnik.resx">
+      <DependentUpon>FrmInfoKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeAdministrator\FrmIzmeniUtakmice.resx">
+      <DependentUpon>FrmIzmeniUtakmice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeAdministrator\FrmKorisnici.resx">
+      <DependentUpon>FrmKorisnici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeKorisnik\FrmDodajKomponente.resx">
+      <DependentUpon>FrmDodajKomponente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeKorisnik\FrmInformacijeTiket.resx">
+      <DependentUpon>FrmInformacijeTiket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeKorisnik\FrmIzmenaNaloga.resx">
+      <DependentUpon>FrmIzmenaNaloga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeKorisnik\FrmKreirajTiket.resx">
+      <DependentUpon>FrmKreirajTiket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeKorisnik\FrmRegistracija.resx">
+      <DependentUpon>FrmRegistracija.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormeKorisnik\FrmSviTiketi.resx">
+      <DependentUpon>FrmSviTiketi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdministrator.resx">
+      <DependentUpon>FrmAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKorisnik.resx">
+      <DependentUpon>FrmKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Slike\letter-t.ico" />
+    <Content Include="Slike\photo - frmAdmin.png" />
+    <Content Include="Slike\photo - frmLogin.png" />
+    <Content Include="Slike\photo - frmRegistracija.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{006152AC-AC89-408B-888C-C591AC2E4B2D}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain\Domain.csproj">
+      <Project>{297645E3-152E-4508-A407-AD04276A6916}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

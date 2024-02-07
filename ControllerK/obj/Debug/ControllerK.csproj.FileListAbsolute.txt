@@ -1,0 +1,60 @@
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\ControllerK.dll
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\ControllerK.pdb
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\Storage.dll
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\SystemOperations.dll
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\DatabaseBroker.dll
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\Storage.pdb
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\SystemOperations.pdb
+C:\Users\Marko\Desktop\Kladionica\ControllerK\bin\Debug\DatabaseBroker.pdb
+C:\Users\Marko\Desktop\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CopyComplete
+C:\Users\Marko\Desktop\Kladionica\ControllerK\obj\Debug\ControllerK.dll
+C:\Users\Marko\Desktop\Kladionica\ControllerK\obj\Debug\ControllerK.pdb
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\ControllerK.dll
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\ControllerK.pdb
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\Domain.dll
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\Storage.dll
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\SystemOperations.dll
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\DatabaseBroker.dll
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\Domain.pdb
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\Storage.pdb
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\SystemOperations.pdb
+E:\seminarski gotov\Kladionica\ControllerK\bin\Debug\DatabaseBroker.pdb
+E:\seminarski gotov\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CoreCompileInputs.cache
+E:\seminarski gotov\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CopyComplete
+E:\seminarski gotov\Kladionica\ControllerK\obj\Debug\ControllerK.dll
+E:\seminarski gotov\Kladionica\ControllerK\obj\Debug\ControllerK.pdb
+E:\seminarski gotov\Kladionica\ControllerK\obj\Debug\ControllerK.csprojAssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\ControllerK.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\ControllerK.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\Domain.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\Storage.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\SystemOperations.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\DatabaseBroker.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\Domain.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\Storage.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\SystemOperations.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\bin\Debug\DatabaseBroker.pdb
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.AssemblyReference.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CoreCompileInputs.cache
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CopyComplete
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\obj\Debug\ControllerK.dll
+D:\Desktop\SOFTVERI seminarksi rad\Kladionica\ControllerK\obj\Debug\ControllerK.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\ControllerK.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\ControllerK.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\Storage.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\SystemOperations.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\DatabaseBroker.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\Storage.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\SystemOperations.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\bin\Debug\DatabaseBroker.pdb
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\obj\Debug\ControllerK.csproj.CopyComplete
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\obj\Debug\ControllerK.dll
+C:\Users\Marko\Desktop\Za git\Kladionica\ControllerK\obj\Debug\ControllerK.pdb
