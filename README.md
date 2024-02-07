@@ -1,5 +1,7 @@
 # Kladionica - Zajednički projekat
 
+Svi fajlovi su na master grani.
+
 Prvo pokrećemo sql skriptu kako bi se generisale odgovarajuće tabele.
 
 Pokrećemo projekat i pre nego što možemo da ulogujemo Administratora ili Korisnika potrebno je da na serverskoj formi pokrenemo server.
